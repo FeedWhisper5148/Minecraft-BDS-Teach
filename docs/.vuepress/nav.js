@@ -13,9 +13,4 @@ module.exports = [
         text: '云牧杂谈',link:"/baodian/talk/"
     },
    
-    {
-        text: 'B站首页', link: 'https://space.bilibili.com/145679856',
-
-    },
-   
 ]
